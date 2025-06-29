@@ -1,5 +1,4 @@
-__pycache__/
-*.db
+__pycache__/b
 *.sqlite
 *.ipynb_checkpoints/
 .idea/
